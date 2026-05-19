@@ -4,14 +4,14 @@ __pycache__/
 
 # Virtual environment
 .venv/
-.env/
+.env
+
+# Database
+data.db
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Database
-Main App/data.db
 
 # Logs
 *.log
